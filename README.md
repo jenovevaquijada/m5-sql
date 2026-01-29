@@ -6,7 +6,7 @@ Este proyecto forma parte de mi portafolio del Módulo 5. Consiste en el diseño
 El sistema gestiona usuarios, productos, stock físico (inventario) y el flujo de órdenes de compra con sus respectivos detalles.
 
 ## 🏗️ Modelo Entidad-Relación (ER)
-![Diagrama ER](./er/tu_imagen.png)
+(./er/tu_imagen.png)
 El diseño se basa en una estructura normalizada (3FN) para asegurar la integridad de los datos.
 * **Usuarios (1:N) Ordenes**
 * **Ordenes (1:N) Detalle_Items**
